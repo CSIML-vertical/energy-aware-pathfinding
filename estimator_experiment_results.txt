@@ -1,0 +1,13 @@
+Iterative Road-Quality Estimator - Convergence Experiment
+-------------------------------------------------------
+Target Observation: 0.50 for all segments
+Update Rate (alpha): 0.15
+Tolerance: 0.0001
+
+Iteration 010 | Max Delta: 0.017251
+Iteration 020 | Max Delta: 0.003396
+Iteration 030 | Max Delta: 0.000669
+Iteration 040 | Max Delta: 0.000132
+Iteration 042 | Max Delta: 0.000095
+
+SUCCESS: Network converged after 42 iterations.
