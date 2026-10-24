@@ -1,0 +1,17 @@
+test_energy_increases_with_roughness (test_vehicle_observation.TestVehicleObservation.test_energy_increases_with_roughness) ... ok
+test_invalid_inputs (test_vehicle_observation.TestVehicleObservation.test_invalid_inputs) ... ok
+test_missing_measurements (test_vehicle_observation.TestVehicleObservation.test_missing_measurements) ... ok
+test_more_noise_more_variance (test_vehicle_observation.TestVehicleObservation.test_more_noise_more_variance) ... ok
+test_no_true_roughness_leak (test_vehicle_observation.TestVehicleObservation.test_no_true_roughness_leak) ... ok
+test_noise_free_equals_truth (test_vehicle_observation.TestVehicleObservation.test_noise_free_equals_truth) ... ok
+test_reproducible (test_vehicle_observation.TestVehicleObservation.test_reproducible) ... ok
+test_response_increases_with_roughness (test_vehicle_observation.TestVehicleObservation.test_response_increases_with_roughness) ... ok
+test_routes_are_connected_walks (test_vehicle_observation.TestVehicleObservation.test_routes_are_connected_walks) ... ok
+test_time_increases_with_roughness (test_vehicle_observation.TestVehicleObservation.test_time_increases_with_roughness) ... ok
+test_valid_ids_and_range (test_vehicle_observation.TestVehicleObservation.test_valid_ids_and_range) ... ok
+test_vehicle_variation (test_vehicle_observation.TestVehicleObservation.test_vehicle_variation) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.680s
+
+OK

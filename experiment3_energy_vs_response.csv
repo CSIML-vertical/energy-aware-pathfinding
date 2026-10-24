@@ -1,0 +1,4 @@
+feature,corr_with_true_roughness
+calibrated_response (segment mean),0.9992
+energy_per_km (segment mean),-0.5072
+travel_time_min (segment mean),0.6021
